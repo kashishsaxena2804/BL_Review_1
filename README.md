@@ -13,4 +13,3 @@
 <h3 style="font-size: 18px; color: #e63946;">Nth prime Number with the range of max length of int.</h3>
 
 
-Nth prime Number with the range of max length of int
